@@ -7,6 +7,21 @@
     <groupId>com.aula.facul</groupId>
     <artifactId>CP-1-DDD_Java</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+            <version>RELEASE</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+    <dependency>
+        <groupId>junit</groupId>
+        <artifactId>junit</artifactId>
+        <version>4.13.2</version>
+        <scope>test</scope>
+    </dependency>
 
     <properties>
         <maven.compiler.source>23</maven.compiler.source>
